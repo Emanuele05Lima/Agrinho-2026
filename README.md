@@ -88,7 +88,7 @@ As imagens, vídeos, ícones, textos e demais recursos visuais utilizados neste 
 Caso algum recurso tenha sido produzido com apoio de inteligência artificial, os prompts utilizados estão registrados abaixo.
 
 🤖 Prompts Genéricos de IA Utilizados
-🌾 CRIE UMA IMAGNE DE UMA ESCOLA DO CAMPO NO INTERIOR COM CRIANCAS E PROFESSORES
+🌾 Imagem de escolaCRIE UMA IMAGNE DE UMA ESCOLA DO CAMPO NO INTERIOR COM CRIANCAS E PROFESSORES
 🌱 Imagem Campo — CRIE UMA IMAGEM DO CAMPO
 📚 Observação sobre o Uso de IA
 As ferramentas de inteligência artificial podem ter sido utilizadas como apoio na criação de imagens, textos ou ideias visuais do projeto.
