@@ -37,14 +37,14 @@ JavaScript
 ├── script.js
 ├── README.md
 ├── img/
-│   ├── logo.png
-│   ├── Hero.png
-│   ├── Campo.png
-│   ├── Malte.png
-│   ├── Cidade.png
-│   ├── Clipe.mp4
-│   ├── github.png
-│   └── instagram.png
+│   ├── campointeriorpng
+│   ├── escolaocampo.png
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   ├── 
+│   └── 
     header.css (nem todos têm)
 ▶️ Como Executar o Projeto
 Para visualizar o projeto:
@@ -60,7 +60,7 @@ O projeto inclui recursos de acessibilidade para melhorar a experiência dos usu
 
 
 🌿 Sustentabilidade
-O conteúdo do site aborda práticas relacionadas ao equilíbrio entre produção e meio ambiente, como:
+O conteúdo do site aborda práticas as adaptações da escola do caampo:
 
 🧠 Conceitos de Programação Aplicados
 Durante o desenvolvimento do projeto, foram aplicados conceitos importantes de programação front-end, como:
@@ -74,13 +74,13 @@ Responsividade com media queries;Manipulação do DOM com JavaScript;
 Menu de acessibilidade com controle de fonte e contraste;
 
 🖼️ Galeria de Imagens
-casa.jpg  Retirado do site wikimedia Commons ()
-campo.jpg (se for da IA inserir aqui o prompt)
+casescoladocampo.jpg  Retirado da IA (CRIE UMA IMAGNE DE UMA ESCOLA DO CAMPO NO INTERIOR COM CRIANCAS E PROFESSORES)
+campointerior.jpg Retirado da IA (CRIE UMA IMAGEM DO CAMPO)
 👨‍🎓 Autoria
-Autor(a): Nome do(a) estudante
-Professor(a) orientador(a): Nome do(a) professor(a)
-Escola: Nome da instituição de ensino
-Município: Guarapuava – Paraná
+Autor(a): Emanuele de Lima Krassowski
+Professor(a) orientador(a): ALEXANDRA TEREZINHA KAPUSINSKI
+Escola: Edite Cordeiro Marques
+Município: Turvo – Paraná
 
 🖼️ Créditos dos Recursos Utilizados
 As imagens, vídeos, ícones, textos e demais recursos visuais utilizados neste projeto foram produzidos ou organizados para fins educacionais no contexto do Concurso Agrinho 2026.
@@ -88,10 +88,8 @@ As imagens, vídeos, ícones, textos e demais recursos visuais utilizados neste 
 Caso algum recurso tenha sido produzido com apoio de inteligência artificial, os prompts utilizados estão registrados abaixo.
 
 🤖 Prompts Genéricos de IA Utilizados
-🌾 Imagem Campo de cevada 
-Crie uma imagem realista e educativa de um campo de cevada em Guarapuava, no Paraná, com atmosfera acolhedora, luz natural suave, paisagem agrícola bem cuidada, céu limpo e sensação de conexão entre produção rural, sustentabilidade e futuro. A imagem deve transmitir equilíbrio entre o agro forte e o cuidado com o meio ambiente.
-🌱 Imagem Campo — Cultivo da cevada
-Crie uma imagem de uma lavoura de cevada em fase de crescimento, mostrando o cultivo no campo, o cuidado com o solo e a importância da agricultura sustentável. A cena deve ter cores naturais, aparência limpa, clima positivo e representar o início da cadeia produtiva do malte.
+🌾 CRIE UMA IMAGNE DE UMA ESCOLA DO CAMPO NO INTERIOR COM CRIANCAS E PROFESSORES
+🌱 Imagem Campo — CRIE UMA IMAGEM DO CAMPO
 📚 Observação sobre o Uso de IA
 As ferramentas de inteligência artificial podem ter sido utilizadas como apoio na criação de imagens, textos ou ideias visuais do projeto.
 Todos os recursos foram utilizados com finalidade educacional, respeitando o tema do concurso e com o objetivo de tornar o aprendizado mais visual, acessível e interativo.
