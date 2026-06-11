@@ -1,46 +1,87 @@
 :root{
-    --cor-fundo: #01080E;
-    --cor-principal: #0B0D20 ;
-    --cor-secundaria: #212333;
-    --cor-destaque: #7ce6f8;
-    --cor-texto: #9e69f5;
+    --cor-fundo: #f0ecd9;      /* bege claro, lembra papel */
+    --cor-principal: #8aa174;  /* verde musgo */
+    --cor-secundaria: #c1a26f; /* marrom claro */
+    --cor-destaque: #f2c94c;   /* amarelo ensolarado */
+    --cor-texto: #3e3a36;      /* marrom escuro */
 }
 
+/* === Corpo da página === */
 body{
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    margin: 0;
 }
 
+/* === Caixa principal === */
 .caixa-principal{
     background-color: var(--cor-principal);
     width: 90%;
-    max-width: 600px;
+    max-width: 650px;
     text-align: center;
-    padding: 20px;
+    padding: 30px 20px;
+    border-radius: 25px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    transition: transform 0.3s;
 }
 
+.caixa-principal:hover{
+    transform: translateY(-5px);
+}
+
+/* === Título === */
 h1{
     color: var(--cor-destaque);
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+
+/* === Pergunta === */
+.caixa-perguntas{
+    padding-bottom: 20px;
+    font-size: 1.1em;
+    line-height: 1.5;
+}
+
+/* === Botões === */
+.caixa-alternativas{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 20px;
 }
 
 button{
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
-    border: none;
-    border-radius: 15px;
+    border: 2px solid var(--cor-destaque);
+    border-radius: 20px;
     padding: 15px;
-    transition: background-color 0.3s;
+    font-size: 1em;
+    cursor: pointer;
+    transition: all 0.3s;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
 }
 
 button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
+    transform: scale(1.05);
 }
 
-.caixa-perguntas{
-    padding-bottom: 10px;
+/* === Resultado === */
+.caixa-resultado{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f5e7; /* tom mais claro que o fundo */
+    border-radius: 15px;
+    border: 2px dashed var(--cor-destaque);
+    box-shadow: inset 0 2px 5px rgba(0,0,0,0.1);
+    font-weight: bold;
 }
