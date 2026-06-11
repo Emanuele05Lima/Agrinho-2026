@@ -18,6 +18,11 @@ body{
     margin: 0;
 }
 
+.imagem-topo{
+     width: 40%;
+     height: 40%;
+
+    }
 /* === Caixa principal === */
 .caixa-principal{
     background-color: var(--cor-principal);
@@ -32,6 +37,7 @@ body{
 
 .caixa-principal:hover{
     transform: translateY(-5px);
+    
 }
 
 /* === Título === */
@@ -48,6 +54,7 @@ h1{
     font-size: 1.1em;
     line-height: 1.5;
 }
+
 
 /* === Botões === */
 .caixa-alternativas{
