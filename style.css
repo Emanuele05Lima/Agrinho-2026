@@ -23,6 +23,12 @@ body{
      height: 40%;
 
     }
+
+    .img src{
+        width: 40%;
+        height: 40%;
+    }
+    
 /* === Caixa principal === */
 .caixa-principal{
     background-color: var(--cor-principal);
